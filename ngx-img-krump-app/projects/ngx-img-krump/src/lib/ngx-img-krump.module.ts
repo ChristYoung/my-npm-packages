@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { NgxImgKrumpComponent } from './ngx-img-krump.component';
+import { NgxImgKrumpComponent } from './components/ngx-img-krump.component';
 
 @NgModule({
   declarations: [NgxImgKrumpComponent],
