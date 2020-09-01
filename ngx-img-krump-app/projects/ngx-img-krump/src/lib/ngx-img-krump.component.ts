@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'lib-ngx-img-krump',
+  selector: 'ngx-img-krump',
   template: `
     <p>
       ngx-img-krump works!
